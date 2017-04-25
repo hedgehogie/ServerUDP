@@ -1,0 +1,5 @@
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ServerUDP\ServerUDP\bin\Debug\ServerUDP.exe.config
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ServerUDP\ServerUDP\bin\Debug\ServerUDP.exe
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ServerUDP\ServerUDP\bin\Debug\ServerUDP.pdb
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ServerUDP\ServerUDP\obj\Debug\ServerUDP.exe
+D:\Mikio\Documents\Visual Studio 2017\Projects\SS17\ServerUDP\ServerUDP\obj\Debug\ServerUDP.pdb
