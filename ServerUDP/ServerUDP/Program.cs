@@ -10,7 +10,6 @@ namespace ServerUDP
 {
     class Program
     {
-        //Kommentar geschrieben
         private const int listenPort = 11000;
         public static int Main()
         {
